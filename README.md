@@ -9,7 +9,7 @@ DualSense, Switch Pro, and JoyCon controllers (**first party hardware only**).
 
 This project is a fork of the work of Jays2Kings.
 
-![DS4Windows Preview](https://raw.githubusercontent.com/Ryochan7/DS4Windows/jay/ds4winwpf_screen_20200412.png)
+![DS4Windows Preview](ds4winwpf_screen_20200412.png)
 
 ## License
 
